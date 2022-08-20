@@ -12,14 +12,14 @@ const chalk = require('chalk')
 global.zenzkey = '06d483bbc651' //Register Atau Beli Di zenzapis.xyz
 
 //===> SESUAIKAN DENGAN KEBUTUHAN MU
-global.ownerNumber = ['6282252285143','6282252285143'] //Ganti Jadi Nomer mu Biar Fitur Ownernya Bisa Dipake
-global.Rowner = '6282252285143' //Owner Utama
-global.ownerName = 'ʏᴀɴɴ ᴋᴜʟʟʙᴇᴛ' //Ganti Jadi Namamu
-global.packname = 'ʙᴏᴛ ᴋᴜʟʟ' //Ganti Jadi Nama Botmu
-global.author = 'By ʏᴀɴɴ sʟᴇʙᴇᴡ' //Ganti Jadi Namamu
+global.ownerNumber = ['19047502362','62895411954396'] //Ganti Jadi Nomer mu Biar Fitur Ownernya Bisa Dipake
+global.Rowner = '19047502362' //Owner Utama
+global.ownerName = 'Kanna Chan' //Ganti Jadi Namamu
+global.packname = 'Whatshapp Bot' //Ganti Jadi Nama Botmu
+global.author = 'By Shuna' //Ganti Jadi Namamu
 global.prefa = ['.','#','!'] //Ilangin Prefix Yang '' Kalau Gamau No Prefix
 global.sessionName = 'sesi' //Saran Gausah Diganti Lagi
-global.webme = 'https://linktr.ee/yannkullbet' //Ganti Jadi Bebas Web Sosmed Mu
+global.webme = 'https://www.instagram.com/eabdalmufid_' //Ganti Jadi Bebas Web Sosmed Mu
 
 //====> SARAN GAUSAH DIGANTI SIH DAH PAS SEMUA
 global.limitAwal = {
